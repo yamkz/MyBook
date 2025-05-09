@@ -1,0 +1,20 @@
+{
+  "title": "MyBook ドキュメント",
+  "description": "GitBookの基本的な使用例",
+  "author": "yamkz",
+  "language": "ja",
+  "gitbook": "^3.2.3",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-sharing",
+    "-fontsettings",
+    "-theme-default"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/yamkz/MyBook",
+      "label": "このページを編集"
+    }
+  }
+}
