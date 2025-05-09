@@ -1,6 +1,6 @@
 {
-  "title": "MyBook ドキュメント",
-  "description": "GitBookの基本的な使用例",
+  "title": "人生の初期設定ガイド",
+  "description": "素晴らしい人生を送るために必要な初期設定の知識と実践方法",
   "author": "yamkz",
   "language": "ja",
   "gitbook": "^3.2.3",
