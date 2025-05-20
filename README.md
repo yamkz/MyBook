@@ -1,27 +1,18 @@
-# 人生の初期設定ガイド
+# Changelog
 
->素晴らしい人生を送りたい人が最初に設定すべきものをまとめています。
->ぜひ、深く理解し、行動を変えてもらえたらとても嬉しいです。
 
 ---
 
-## 目次
+### 1.0.2: 幸福度の最適化
+<div style="display: flex; gap: 10px; align-items: center; padding: 10px 0px;">
+  <div style="color: #AAA; font-size: 12px;">2025 19W</div>
+  <div style="background-color: #263a2d; color: #6de394; font-size: 10px; padding: 4px 8px; border-radius: 4px; display: inline-block;">Life Management</div>
+</div>
 
-- [はじめに](basics/index.md)
-- [なぜ初期設定が必要なのか](basics/why.md)
-- [何をすべきなのか](basics/what.md)
-- [どのように実践するか](basics/how.md)
-- [週間プロジェクト運用設計](weekly/index.md)
-  - [計画](weekly/planning.md)
-  - [実行](weekly/execution.md)
-  - [検証と改善](weekly/review.md)
+2025年 19週目には、幸福度の最適化を行いました。以下の幸福度を多角的に評価するための指標を設置し、それぞれが問題が起きないラインを永続的に維持するために毎週随時チェックするシステムを取り入れています。
+
+- WHO-5 （ウェルビーイング指数）を毎週70点以上を維持。
+- PERMA（人が良く生きるための5つの幸福の要素）、全スコアYESを維持。
+- WESS（情動安定性を測るため個人開発した指標）を80点以上維持。
 
 ---
-
-## 使い方
-
-1. [はじめに](basics/index.md)を読んで全体像を理解
-2. [なぜ初期設定が必要なのか](basics/why.md)を読んで科学的根拠を確認
-3. [何をすべきなのか](basics/what.md)を読んで具体的な項目を把握
-4. [どのように実践するか](basics/how.md)を読んで実践方法を学ぶ
-5. [週間プロジェクト運用設計](weekly/index.md)を参考に実践計画を作成

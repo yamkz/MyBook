@@ -1,20 +1,31 @@
 {
-  "title": "人生の初期設定ガイド",
-  "description": "素晴らしい人生を送るために必要な初期設定の知識と実践方法",
+  "title": "Changelog",
+  "description": "更新履歴と変更点を記録します",
   "author": "yamkz",
   "language": "ja",
   "gitbook": "^3.2.3",
+  "root": "./",
+  "structure": {
+    "readme": "README.md"
+  },
   "plugins": [
     "-lunr",
     "-search",
     "-sharing",
     "-fontsettings",
-    "-theme-default"
+    "-highlight",
+    "-livereload"
   ],
+  "styles": {
+    "website": "styles/website.css"
+  },
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/yamkz/MyBook",
       "label": "このページを編集"
     }
+  },
+  "variables": {
+    "themeColor": "#2c3e50"
   }
 }
